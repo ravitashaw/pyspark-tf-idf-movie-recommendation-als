@@ -1,2 +1,4 @@
 # pyspark-tf-idf-movie-recommendation-als
-PySpark implementation for Common word occurrence using IDF and TF-IDF in text and Movie recommendation using Collaborative Filtering (ALS)
+
+1. Common word occurrences using IDF and TF-IDF in text using PySpark SQL
+2. Movie recommendation using Collaborative Filtering (ALS) using ML Lib
